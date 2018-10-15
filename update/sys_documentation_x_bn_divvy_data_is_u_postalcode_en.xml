@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_postalcode" label="postalCode" language="en" table="x_bn_divvy_data_is">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_postalcode</element>
+            <help/>
+            <hint/>
+            <label>postalCode</label>
+            <language>en</language>
+            <name>x_bn_divvy_data_is</name>
+            <plural>postalCodes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:02</sys_created_on>
+            <sys_id>e449d067db812300679c5ff0cf9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>postalCode</sys_name>
+            <sys_package display_value="BookNow" source="x_bn">fa506eb3b32113009b67a13816a8dc58</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BookNow">fa506eb3b32113009b67a13816a8dc58</sys_scope>
+            <sys_update_name>sys_documentation_x_bn_divvy_data_is_u_postalcode_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

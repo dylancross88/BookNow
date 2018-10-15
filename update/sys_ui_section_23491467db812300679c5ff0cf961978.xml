@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="23491467db812300679c5ff0cf961978" sys_domain="global" table="x_bn_divvy_data_is" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>63491467db812300679c5ff0cf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_altitude</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>6b491467db812300679c5ff0cf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_availabledocks</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>eb491467db812300679c5ff0cf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_city</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>6f491467db812300679c5ff0cf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_is_renting</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>ef491467db812300679c5ff0cf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_landmark</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>63491467db812300679c5ff0cf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_latitude</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>e3491467db812300679c5ff0cf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_postalcode</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>67491467db812300679c5ff0cf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_staddress1</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>e7491467db812300679c5ff0cf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_staddress2</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>6b491467db812300679c5ff0cf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_statusvalue</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>eb491467db812300679c5ff0cf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_teststation</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>6f491467db812300679c5ff0cf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>ef491467db812300679c5ff0cf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_totaldocks</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>63491467db812300679c5ff0cf961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_availablebikes</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>e3491467db812300679c5ff0cf961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_id</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>67491467db812300679c5ff0cf961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_kiosktype</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>e7491467db812300679c5ff0cf961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_lastcommunicationtime</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>6b491467db812300679c5ff0cf961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_location</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>eb491467db812300679c5ff0cf961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_longitude</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>6f491467db812300679c5ff0cf961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stationname</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>ef491467db812300679c5ff0cf961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_status</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>63491467db812300679c5ff0cf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_statuskey</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>e3491467db812300679c5ff0cf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_id>67491467db812300679c5ff0cf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bn_divvy_data_is" sys_domain="global" view="Default view">23491467db812300679c5ff0cf961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_bn_divvy_data_is</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 10:28:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23491467db812300679c5ff0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_bn_divvy_data_is</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BookNow" source="x_bn">fa506eb3b32113009b67a13816a8dc58</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BookNow">fa506eb3b32113009b67a13816a8dc58</sys_scope>
+            <sys_update_name>sys_ui_section_23491467db812300679c5ff0cf961978</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 10:28:14</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
